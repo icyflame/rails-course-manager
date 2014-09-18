@@ -8,6 +8,8 @@
 		<th>Code</th>
 		<th>Name</th>
 		<th>Department</th>
+		<th></th>
+		<th></th>
 
 	</tr>
 
@@ -19,6 +21,12 @@
 		<td> <%= course.code %> </td>
 		<td> <%= course.name %> </td>
 		<td> <%= course.dept %> </td>
+		<td> <%= link_to 'Show', course %> </td>
+		<td>
+			<%= form_for :course, url: course, method: :delete do |f| %>
+			<input type="submit"/>
+			<% end %>
+		</td>
 
 	</tr>
 

@@ -23,6 +23,14 @@ class CoursesController < ApplicationController
 
   end
 
+  def destroy
+
+    Course.delete(params[:id])
+
+    render 'delete'
+
+  end
+
   private
 
   def course_params
