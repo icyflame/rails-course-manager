@@ -1,0 +1,47 @@
+<%= form_for :courses, url: courses_path do |f| %>
+
+<% if defined? @newcourse %>
+
+<% if @newcourse.errors.any? %>
+
+<div id="error_explanation">
+	<h2><%= pluralize(@newcourse.errors.count, "error") %> prohibited
+		this course from being saved:
+	</h2>
+	<ul>
+		<% @newcourse.errors.full_messages.each do |msg| %>
+		<li><%= msg %></li>
+		<% end %>
+	</ul>
+</div>
+
+<% end %>
+<% end %>
+
+<p>
+	<%= f.label :course_code %> <br/>
+	<%= f.text_field :code, :placeholder => 'XY##### (7 characters only)', :class => "form-control" %> 
+</p>
+
+<p>
+	<%= f.label :name_of_the_course %> <br/>
+	<%= f.text_field :name, :class => "form-control"  %> 
+</p>
+
+<p>
+	<%= f.label :department %> <br/>
+	<%= f.text_field :dept, :placeholder => 'two letter code' %> 
+</p>
+
+<input type="submit" class="btn btn-md btn-success" value="Save Course"/>
+
+<br/>
+<br/>
+
+<a href="<%= courses_path %>">
+	<button class="btn btn-md btn-success">
+		Course List
+	</button>
+</a>
+
+<% end %>
