@@ -10,7 +10,8 @@ class CoursesController < ApplicationController
   	@newcourse = Course.new(course_params)
 
   	if @newcourse.save
-      index
+      # render plain: 'Course created'
+      redirect_to @newcourse
     else
       render 'new'
     end

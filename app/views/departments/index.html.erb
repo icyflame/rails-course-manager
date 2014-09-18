@@ -1,0 +1,47 @@
+<h1>List of all departments</h1>
+
+<table class="table">
+
+	<tr>
+
+		<th>ID</th>
+		<th>Name</th>
+		<th></th>
+		<th></th>
+
+	</tr>
+
+	<% @departments.each do |department| %>
+
+	<tr>
+
+		<td> <%= department.id %> </td>
+		<td> <%= department.name %> </td>
+		<td> 
+			<a href="<%= department_path(department) %>">
+				<button class="btn btn-success">
+					Show
+				</button>
+			</a>
+
+		</td>
+		<td>
+			<%= form_for :department, url: department, method: :delete do |f| %>
+			<input class="btn btn-danger" type="submit" value="delete"/>
+			<% end %>
+		</td>
+
+	</tr>
+
+	<% end %>
+
+</table>
+
+<a href="<%= new_department_path %>">
+	<button class="btn btn-primary">
+		New department
+	</button>
+</a>
+
+<br/>
+<br/>

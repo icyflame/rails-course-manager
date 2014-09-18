@@ -1,0 +1,42 @@
+<%= form_for :students, url: students_path do |f| %>
+
+<% if defined? @newstudent %>
+
+<% if @newstudent.errors.any? %>
+
+<div id="error_explanation">
+	<h2><%= pluralize(@newstudent.errors.count, "error") %> prohibited
+		this student from being saved:
+	</h2>
+	<ul>
+		<% @newstudent.errors.full_messages.each do |msg| %>
+		<li><%= msg %></li>
+		<% end %>
+	</ul>
+</div>
+
+<% end %>
+<% end %>
+
+<p>
+	<%= f.label :name_of_the_student %> <br/>
+	<%= f.text_field :name, :class => "form-control"  %> 
+</p>
+
+<p>
+	<%= f.label :department %> <br/>
+	<%= f.text_field :dept, :placeholder => 'Integer Department ID' %> 
+</p>
+
+<input type="submit" class="btn btn-md btn-success" value="Save student"/>
+
+<br/>
+<br/>
+
+<a href="<%= students_path %>">
+	<button class="btn btn-md btn-success">
+		student List
+	</button>
+</a>
+
+<% end %>

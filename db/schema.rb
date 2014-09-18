@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20140916161253) do
+ActiveRecord::Schema.define(version: 20140918144048) do
 
   create_table "courses", force: true do |t|
     t.string   "code"
@@ -20,5 +20,21 @@ ActiveRecord::Schema.define(version: 20140916161253) do
     t.datetime "created_at"
     t.datetime "updated_at"
   end
+
+  create_table "departments", force: true do |t|
+    t.string   "name"
+    t.string   "shortcode"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
+  create_table "students", force: true do |t|
+    t.string   "name"
+    t.integer  "department_id"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
+  add_index "students", ["department_id"], name: "index_students_on_department_id"
 
 end

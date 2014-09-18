@@ -21,10 +21,17 @@
 		<td> <%= course.code %> </td>
 		<td> <%= course.name %> </td>
 		<td> <%= course.dept %> </td>
-		<td> <%= link_to 'Show', course %> </td>
+		<td> 
+			<a href="<%= course_path(course) %>">
+				<button class="btn btn-success">
+					Show
+				</button>
+			</a>
+
+		</td>
 		<td>
 			<%= form_for :course, url: course, method: :delete do |f| %>
-			<input type="submit"/>
+			<input class="btn btn-danger" type="submit" value="delete"/>
 			<% end %>
 		</td>
 
@@ -34,5 +41,11 @@
 
 </table>
 
+<a href="<%= new_course_path %>">
+	<button class="btn btn-primary">
+		New Course
+	</button>
+</a>
 
-<%= link_to 'New Course', new_course_path %>
+<br/>
+<br/>

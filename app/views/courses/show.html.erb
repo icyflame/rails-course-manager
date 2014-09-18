@@ -1,0 +1,21 @@
+<h3>
+	Course ID <%= @course.id %>
+</h3>
+
+<h2>
+	<%= @course.name %>
+</h2>
+
+<h4 class="text-muted">	
+	<%= @course.code %>
+</h4>
+
+<h4> Managed by <%= @course.dept %> </h4>
+
+<a href="<%= courses_path %>">
+
+	<button class="btn btn-primary">
+		Go back to list of courses
+	</button>
+
+</a>
