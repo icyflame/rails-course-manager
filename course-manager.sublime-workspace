@@ -1,0 +1,1086 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"course",
+				"course_params"
+			],
+			[
+				"student",
+				"students"
+			],
+			[
+				"articl",
+				"article_params"
+			],
+			[
+				"d",
+				"dotted"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"border",
+				"border-width"
+			],
+			[
+				"border-bottom",
+				"border-bottom-width"
+			],
+			[
+				"sear",
+				"searchTabs"
+			],
+			[
+				"user",
+				"userdata"
+			],
+			[
+				"array_m",
+				"array_merge"
+			],
+			[
+				"array",
+				"array_combine"
+			],
+			[
+				"github",
+				"github-black"
+			],
+			[
+				"project",
+				"projecttitle"
+			],
+			[
+				"strc",
+				"strcmp"
+			],
+			[
+				"name",
+				"names"
+			],
+			[
+				"file",
+				"fileperms"
+			],
+			[
+				"text-",
+				"text-decoration"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"do",
+				"double"
+			],
+			[
+				"bor",
+				"border-style"
+			],
+			[
+				"paddin",
+				"padding-left"
+			],
+			[
+				"paDD",
+				"padding-left"
+			],
+			[
+				"alum",
+				"alumnifulldata"
+			],
+			[
+				"alu",
+				"alumni"
+			],
+			[
+				"alumni",
+				"alumnifulldata"
+			],
+			[
+				"ent",
+				"ent_field"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"paddi",
+				"padding-right"
+			],
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"date_defa",
+				"date_default_timezone_set"
+			],
+			[
+				"border-co",
+				"border-color"
+			],
+			[
+				"de",
+				"decodedString"
+			],
+			[
+				"fil",
+				"File"
+			],
+			[
+				"admin",
+				"adminportalmodel"
+			],
+			[
+				"time",
+				"timestamp"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"curl_",
+				"curl_init"
+			],
+			[
+				"backgroun",
+				"background-color"
+			],
+			[
+				"and",
+				"anodec"
+			],
+			[
+				"exec",
+				"executed"
+			],
+			[
+				"query",
+				"queryEnd"
+			],
+			[
+				"spons",
+				"sponseditmodel"
+			],
+			[
+				"calling",
+				"callingDetailsBegin"
+			],
+			[
+				"contact",
+				"contactDetailsBegin"
+			],
+			[
+				"Address",
+				"Address"
+			],
+			[
+				"res",
+				"result_array"
+			],
+			[
+				"profilefetch",
+				"profilefetchmodel"
+			],
+			[
+				"data",
+				"dataDump"
+			],
+			[
+				"class",
+				"class_data"
+			],
+			[
+				"current",
+				"current_url"
+			],
+			[
+				"split",
+				"spliti"
+			],
+			[
+				"lc",
+				"lcd1"
+			],
+			[
+				"add",
+				"addLayout"
+			],
+			[
+				"Qt",
+				"QtGui"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"mysql_er",
+				"mysql_error"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"adm",
+				"admin_mail"
+			],
+			[
+				"sess",
+				"session_unset"
+			],
+			[
+				"asss",
+				"assignor_pos"
+			],
+			[
+				"n",
+				"n"
+			],
+			[
+				"assign",
+				"assignor_pos"
+			],
+			[
+				"assignor",
+				"assignor_pos"
+			],
+			[
+				"mysql_fe",
+				"mysql_fetch_assoc"
+			],
+			[
+				"body",
+				"body_assignee"
+			],
+			[
+				"assignee",
+				"assignee_mail"
+			],
+			[
+				"mysql_num",
+				"mysql_num_rows"
+			],
+			[
+				"mysql",
+				"mysql_query"
+			],
+			[
+				"mysql_n",
+				"mysql_num_rows"
+			],
+			[
+				"session",
+				"session_start"
+			],
+			[
+				"pass",
+				"pass_entered"
+			],
+			[
+				"mysql_fet",
+				"mysql_fetch_assoc"
+			],
+			[
+				"quer",
+				"query"
+			],
+			[
+				"simple",
+				"simplexml_load_file"
+			],
+			[
+				"cv",
+				"cv_ptr"
+			],
+			[
+				"first",
+				"first_node"
+			],
+			[
+				"Q",
+				"QPointF"
+			],
+			[
+				"Qwt",
+				"QwtSymbol"
+			],
+			[
+				"setSiz",
+				"setFixedSize"
+			],
+			[
+				"Ki",
+				"Ki"
+			],
+			[
+				"ad",
+				"addWidget"
+			],
+			[
+				"QP",
+				"QPushButton"
+			],
+			[
+				"K",
+				"Kd"
+			],
+			[
+				"Kp",
+				"Kp"
+			],
+			[
+				"setS",
+				"setStyleSheet"
+			],
+			[
+				"callback",
+				"callbackForDial"
+			],
+			[
+				"build",
+				"buildOnClickSlots"
+			],
+			[
+				"button",
+				"button_index"
+			],
+			[
+				"list",
+				"listwidget"
+			],
+			[
+				"val",
+				"val_out"
+			],
+			[
+				"col",
+				"col-md-6"
+			],
+			[
+				"State",
+				"StateMachine"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"outer",
+				"outer-header"
+			],
+			[
+				"background-",
+				"background-color"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"grun",
+				"grunt-contrib-concat"
+			],
+			[
+				"background",
+				"background-size"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"tit",
+				"titlecontent"
+			],
+			[
+				"im",
+				"img_wrap"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/controllers/courses_controller.rb",
+			"settings":
+			{
+				"buffer_size": 534,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/controllers/departments_controller.rb",
+			"settings":
+			{
+				"buffer_size": 168,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/controllers/students_controller.rb",
+			"settings":
+			{
+				"buffer_size": 399,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "<h1>Students#new</h1>\n<p>Find me in app/views/students/new.html.erb</p>\n\n",
+			"file": "app/views/students/new.html.erb",
+			"file_size": 72,
+			"file_write_time": 1411051414000000,
+			"settings":
+			{
+				"buffer_size": 73,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 404.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/media/A412A5B312A58B3E/Programming/learn-rails/course-manager/app/controllers/application_controller.rb",
+		"/media/A412A5B312A58B3E/Programming/learn-rails/blog/app/controllers/students_controller.rb",
+		"/media/A412A5B312A58B3E/alumni-cell-git-repo/alumni-meet-final-website-2015/final_website_2015/sac_content.php",
+		"/media/A412A5B312A58B3E/Programming/learn-rails/course-manager/app/views/courses/show.html.erb",
+		"/media/A412A5B312A58B3E/Programming/learn-rails/course-manager/app/views/courses/delete.html.erb",
+		"/media/A412A5B312A58B3E/Programming/learn-rails/course-manager/app/assets/stylesheets/general.css.scss",
+		"/media/A412A5B312A58B3E/Programming/learn-rails/course-manager/db/schema.rb",
+		"/media/A412A5B312A58B3E/Programming/learn-rails/course-manager/app/models/student.rb",
+		"/media/A412A5B312A58B3E/Programming/learn-rails/course-manager/config/routes.rb",
+		"/media/A412A5B312A58B3E/Programming/learn-rails/course-manager/app/models/department.rb",
+		"/media/A412A5B312A58B3E/Programming/learn-rails/course-manager/app/views/courses/new.html.erb",
+		"/media/A412A5B312A58B3E/Programming/learn-rails/course-manager/app/views/courses/index.html.erb",
+		"/media/A412A5B312A58B3E/Programming/learn-rails/course-manager/app/assets/stylesheets/courses.css.scss",
+		"/media/A412A5B312A58B3E/Programming/learn-rails/course-manager/app/assets/stylesheets/application.css.scss",
+		"/media/A412A5B312A58B3E/Programming/learn-rails/course-manager/db/migrate/20140918143118_create_departments.rb",
+		"/media/A412A5B312A58B3E/Programming/learn-rails/course-manager/db/migrate/20140918144048_create_students.rb",
+		"/media/A412A5B312A58B3E/Programming/learn-rails/course-manager/Gemfile",
+		"/media/A412A5B312A58B3E/jekyll-blog/hyde/_posts/2014-09-18-almost-like-jee.md",
+		"/media/A412A5B312A58B3E/Programming/learn-rails/course-manager/app/views/courses/create.html.erb",
+		"/media/A412A5B312A58B3E/frontend/create-together-gh-page/index.html",
+		"/home/siddharth/ros_workspace/kraken_3.0/simulator_stack/simulator-drag-drop-gui/2.py",
+		"/media/A412A5B312A58B3E/Programming/learn-rails/course-manager/app/assets/stylesheets/application.css",
+		"/media/A412A5B312A58B3E/Programming/learn-rails/course-manager/app/assets/stylesheets/form.css.scss",
+		"/media/A412A5B312A58B3E/Programming/learn-rails/course-manager/app/models/course.rb",
+		"/home/siddharth/Downloads/bootstrap-sass-3.2.0/assets/stylesheets/bootstrap.scss",
+		"/home/siddharth/Downloads/bootstrap-sass-3.2.0/README.md",
+		"/media/A412A5B312A58B3E/Programming/learn-rails/course-manager/app/assets/stylesheets/form.scss",
+		"/media/A412A5B312A58B3E/Programming/learn-rails/blog/app/views/students/new.html.erb",
+		"/media/A412A5B312A58B3E/Programming/learn-rails/blog/app/views/students/index.html.erb",
+		"/media/A412A5B312A58B3E/Programming/learn-rails/course-manager/app/assets/javascripts/application.js",
+		"/media/A412A5B312A58B3E/Programming/learn-rails/course-manager/app/assets/stylesheets/bootstrap.min.css",
+		"/media/A412A5B312A58B3E/Programming/learn-rails/blog/config/routes.rb",
+		"/media/A412A5B312A58B3E/Programming/learn-rails/blog/app/views/students/destroy.html.erb",
+		"/media/A412A5B312A58B3E/Programming/learn-rails/blog/app/views/students/show.html.erb",
+		"/media/A412A5B312A58B3E/Programming/learn-rails/blog/app/views/students/create.html.erb",
+		"/media/A412A5B312A58B3E/Programming/learn-rails/blog/app/controllers/welcome_controller.rb",
+		"/media/A412A5B312A58B3E/Programming/learn-rails/blog/app/views/welcome/index.html.erb",
+		"/media/A412A5B312A58B3E/Programming/learn-rails/blog/Rakefile",
+		"/media/A412A5B312A58B3E/Programming/learn-rails/blog/app/helpers/students_helper.rb",
+		"/media/A412A5B312A58B3E/jekyll-blog/hyde/_posts/2014-09-15-installing-ruby.md",
+		"/media/A412A5B312A58B3E/Programming/learn-rails/blog/log/development.log",
+		"/media/A412A5B312A58B3E/Programming/learn-rails/blog/db/development.sqlite3",
+		"/media/A412A5B312A58B3E/Programming/learn-rails/blog/app/models/student.rb",
+		"/media/A412A5B312A58B3E/Programming/learn-rails/blog/db/migrate/20140916055521_create_students.rb",
+		"/media/A412A5B312A58B3E/jekyll-blog/hyde/_layouts/post.html",
+		"/media/A412A5B312A58B3E/alumni-cell-git-repo/begin-erp/application/views/coordinator/mainview.php",
+		"/media/A412A5B312A58B3E/frontend/index.html",
+		"/media/A412A5B312A58B3E/jekyll-blog/hyde/index.html",
+		"/media/A412A5B312A58B3E/jekyll-blog/hyde/_posts/2014-09-13-homeland-suspense.md",
+		"/media/A412A5B312A58B3E/jekyll-blog/hyde/_posts/2014-09-12-set-up-and-ready.md",
+		"/media/A412A5B312A58B3E/jekyll-blog/hyde/_posts/2014-09-12-first-post.md",
+		"/media/A412A5B312A58B3E/my-website/index.html",
+		"/media/A412A5B312A58B3E/jekyll-blog/hyde/_config.yml",
+		"/media/A412A5B312A58B3E/jekyll-blog/hyde/about.md",
+		"/media/A412A5B312A58B3E/jekyll-blog/hyde/_layouts/default.html",
+		"/media/A412A5B312A58B3E/jekyll-blog/hyde/_includes/sidebar.html",
+		"/media/A412A5B312A58B3E/jekyll-blog/hyde/_includes/head.html",
+		"/media/A412A5B312A58B3E/jekyll-blog/hyde/list.md",
+		"/media/A412A5B312A58B3E/jekyll-blog/hyde/list.html",
+		"/media/A412A5B312A58B3E/jekyll-blog/hyde/public/css/hyde.css",
+		"/media/A412A5B312A58B3E/jekyll-blog/hyde/public/css/poole.css",
+		"/media/A412A5B312A58B3E/jekyll-blog/hyde/public/css/syntax.css",
+		"/media/A412A5B312A58B3E/alumni-cell-git-repo/begin-erp/application/controllers/profilefetch.php",
+		"/media/A412A5B312A58B3E/alumni-cell-git-repo/begin-erp/application/controllers/dbdisplay.php",
+		"/media/A412A5B312A58B3E/alumni-cell-git-repo/begin-erp/application/views/profileview/profilefullview.php",
+		"/media/A412A5B312A58B3E/alumni-cell-git-repo/begin-erp/application/views/dbdisp/dbdispview.php",
+		"/media/A412A5B312A58B3E/alumni-cell-git-repo/begin-erp/application/views/templates/header.html",
+		"/media/A412A5B312A58B3E/alumni-cell-git-repo/begin-erp/application/models/userdb.php",
+		"/media/A412A5B312A58B3E/alumni-cell-git-repo/begin-erp/application/controllers/auth.php",
+		"/media/A412A5B312A58B3E/alumni-cell-git-repo/begin-erp/application/views/templates/footer.html",
+		"/media/A412A5B312A58B3E/alumni-cell-git-repo/begin-erp/application/controllers/coordinator.php",
+		"/media/A412A5B312A58B3E/jekyll-blog/hyde/README.md",
+		"/media/A412A5B312A58B3E/jekyll-blog/hyde/_layouts/page.html",
+		"/media/A412A5B312A58B3E/alumni-cell-git-repo/begin-erp/application/views/profileview/profilefetchview.php",
+		"/media/A412A5B312A58B3E/alumni-cell-git-repo/begin-erp/application/views/templates/header",
+		"/media/A412A5B312A58B3E/alumni-cell-git-repo/begin-erp/application/views/summary/summary-member.php",
+		"/media/A412A5B312A58B3E/alumni-cell-git-repo/begin-erp/application/models/dbdispmodel.php",
+		"/media/A412A5B312A58B3E/alumni-cell-git-repo/begin-erp/application/config/constants.php",
+		"/media/A412A5B312A58B3E/alumni-cell-git-repo/begin-erp/application/controllers/alumeditprof.php",
+		"/media/A412A5B312A58B3E/alumni-cell-git-repo/begin-erp/bootstrap/bodymargin.css",
+		"/media/A412A5B312A58B3E/alumni-cell-git-repo/blog-draft/application/views/blogview.php",
+		"/media/A412A5B312A58B3E/alumni-cell-git-repo/begin-erp/application/config/constatn",
+		"/home/siddharth/email-id-application.tex",
+		"/home/siddharth/Desktop/test.html",
+		"/media/A412A5B312A58B3E/letter-temp/email-id-application.tex",
+		"/media/A412A5B312A58B3E/letter-temp/email-id-application.aux",
+		"/media/A412A5B312A58B3E/letter-temp/email-id-application.log",
+		"/media/A412A5B312A58B3E/Siddharth/Books/E/temp/sac-pi.tex",
+		"/media/A412A5B312A58B3E/Siddharth/Books/E/temp/sac-treat-1.tex",
+		"/media/A412A5B312A58B3E/Siddharth/Books/E/temp/sac-pi.",
+		"/media/A412A5B312A58B3E/alumni-cell-git-repo/begin-erp/application/views/newsfeedview/newsfeedview.php",
+		"/media/A412A5B312A58B3E/alumni-cell-git-repo/begin-erp/application/models/feedupdate.php",
+		"/media/A412A5B312A58B3E/Programming/learn-django/attendancemonitor/login/models.py",
+		"/media/A412A5B312A58B3E/Programming/learn-django/attendancemonitor/attendancemonitor/settings.py",
+		"/media/A412A5B312A58B3E/Programming/learn-django/attendancemonitor/login/admin.py",
+		"/media/A412A5B312A58B3E/alumni-cell-git-repo/begin-erp/application/models/summarymember.php",
+		"/media/A412A5B312A58B3E/alumni-cell-git-repo/blog-draft/application/controllers/blogcont.php",
+		"/home/siddharth/ros_workspace/kraken_3.0/simulator_stack/simulator-drag-drop-gui/parseXML.py",
+		"/home/siddharth/ros_workspace/xml-parse/sim_change_gui/scene_1.xml",
+		"/media/A412A5B312A58B3E/alumni-cell-git-repo/begin-erp/application/models/profilefetchmodel.php",
+		"/media/A412A5B312A58B3E/alumni-cell-git-repo/blog-draft/application/controllers/registration.php",
+		"/media/A412A5B312A58B3E/Programming/learn-django/attendancemonitor/db.sqlite3",
+		"/media/A412A5B312A58B3E/Programming/learn-django/attendancemonitor/manage.py",
+		"/home/siddharth/ros_workspace/kraken_3.0/simulator_stack/simulator-drag-drop-gui/dragdrop.py",
+		"/home/siddharth/ros_workspace/kraken_3.0/simulator_stack/simulator-drag-drop-gui/3.py",
+		"/media/A412A5B312A58B3E/YEC/website/yec-india-php/articlesText.php",
+		"/media/A412A5B312A58B3E/YEC/website/yec-india-php/getinvolvedText.php",
+		"/media/A412A5B312A58B3E/YEC/website/yec-india-php/getinvolved.php",
+		"/home/siddharth/Downloads/ruby-2.1.2/README",
+		"/home/siddharth/Downloads/ruby-2.1.2/README.EXT",
+		"/media/A412A5B312A58B3E/YEC/website/yec-india-php/articles.php",
+		"/media/A412A5B312A58B3E/YEC/website/yec-india-php/menubar.php",
+		"/home/siddharth/ros_workspace/kraken_3.0/simulator_stack/simulator-drag-drop-gui/parseXML.pu",
+		"/home/siddharth/ros_workspace/xml-parse/sim_change_gui/dragdrop.py",
+		"/home/siddharth/ros_workspace/kraken_3.0/simulator_stack/simulator-drag-drop-gui/dragdrop.pu",
+		"/home/siddharth/ros_workspace/xml-parse/sim_change_gui/2.py",
+		"/home/siddharth/ros_workspace/xml-parse/sim_change_gui/scene_2.xml",
+		"/media/A412A5B312A58B3E/alumni-cell-git-repo/student-grade-scraper/main.py",
+		"/home/siddharth/ros_workspace/xml-parse/sim_change_gui/scene",
+		"/home/siddharth/ros_workspace/xml-parse/sim_change_gui/scene_3.xml",
+		"/media/A412A5B312A58B3E/alumni-cell-git-repo/alumni-meet-final-website-2015/website_1/ganalytics.php",
+		"/media/A412A5B312A58B3E/alumni-cell-git-repo/alumni-meet-final-website-2015/website_1/hitcounter.php",
+		"/media/A412A5B312A58B3E/alumni-cell-git-repo/alumni-meet-final-website-2015/website_1/home.php",
+		"/media/A412A5B312A58B3E/alumni-cell-git-repo/alumni-meet-final-website-2015/website_1/noticeboard.php",
+		"/home/siddharth/ros_workspace/kraken_3.0/simulator_stack/joystick_control/src/joystick_control.cpp",
+		"/home/siddharth/ros_workspace/xml-parse/sim_change_gui/scene.urdf",
+		"/media/A412A5B312A58B3E/alumni-cell-git-repo/alumni-meet-final-website-2015/website_1/countlog.txt",
+		"/media/A412A5B312A58B3E/YEC/website/yec-india-php/eventsText.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"bootstrap",
+			"asf",
+			"article",
+			"root",
+			"1s",
+			"h2 > a",
+			"outer-4",
+			"anodec",
+			" \"",
+			".text",
+			"text",
+			"heart",
+			"edit",
+			"erp",
+			"4183c4",
+			"circular",
+			"head",
+			"heaqd",
+			"head",
+			"present",
+			"year1",
+			"YEAR1",
+			"YEAR",
+			"year1",
+			"$year1",
+			"check",
+			"editsucess",
+			"templates",
+			"link",
+			"Example",
+			"10",
+			"1.jpg",
+			"AG",
+			"11AG",
+			"print \\'",
+			"print '.*'",
+			"print ['\"].*'",
+			"print ['\"]",
+			"print ['\"](.*)['\"]",
+			"print ['\"]",
+			"fa-4x",
+			"row",
+			"3x",
+			"center",
+			"3b5998",
+			": 100",
+			"width=\"100px\" height=\"100px\"",
+			"a href",
+			"<a href=",
+			"<a href",
+			"\");?>\n",
+			"img",
+			"<img",
+			"20px",
+			"14px",
+			"ent_filed",
+			"headerspons",
+			"companyid",
+			"sponsmodel",
+			"member/specificYear",
+			"APPAPTH",
+			"database",
+			"int",
+			"#cssmenu",
+			"10%",
+			"70%",
+			"topbar",
+			"fnot",
+			"col-md",
+			"public",
+			"hastag",
+			"registration",
+			"login",
+			"time",
+			"carousel-example-generic",
+			"item active",
+			"postloc",
+			"this",
+			"threshpriv",
+			"md5",
+			"createnewpaste",
+			"users",
+			"controller",
+			"default",
+			"workspace",
+			"current",
+			"ent",
+			"select",
+			"join",
+			".';\n",
+			"<script src=\"http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js\"></script>",
+			"<link rel=\"stylesheet\" href=\"http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css\">",
+			"newsfeedview",
+			"latest",
+			"userid",
+			"<link rel=\"stylesheet\" .*>",
+			"application/views/",
+			"base_url\\(\\'application/views",
+			"<script src=\"<?php echo base_url\\('application/views/bootstrap.min.js'\\) ?>\"></script>",
+			"<script src=\"http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js\"></script>",
+			"<link rel=\"stylesheet\" href=\"http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css\">",
+			"<link",
+			"$this->load",
+			"$this->load->helper",
+			"$this->load->helper('url')",
+			"<link rel=\"stylesheet\" href=\"http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css\">",
+			"alumid",
+			"alumni",
+			"primary key (.*)",
+			"`)\n",
+			"PRIMARY KEY (`userid`)",
+			"primary key (.*)",
+			"alumni",
+			"threshold",
+			"thresh",
+			"threshold",
+			"profilefetchview",
+			"getData",
+			"getStatusData",
+			"getData",
+			"showprofile",
+			"$c_",
+			"echo",
+			"/$current_year",
+			"current_url()",
+			"class_data",
+			"where touserid",
+			"status"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"students",
+			"0.5s",
+			".nav-item",
+			"YEAR1",
+			"editsuccess",
+			"joint",
+			"Application",
+			"chrome.png",
+			"",
+			"row fa",
+			"4x",
+			": 0",
+			": ",
+			"a target=\"_blank\" href",
+			"img class=\"giveBorder\"",
+			"17px",
+			"20px",
+			"ent_field",
+			"header",
+			"alumid",
+			"profilefetchmodel",
+			"sponscont/",
+			"ord",
+			".cssmenubar",
+			"5%",
+			"60%",
+			"mainnavbar",
+			"font",
+			"col-sm",
+			"hashtag",
+			"account creation",
+			"regdone",
+			"carousel-slider-main",
+			"item",
+			"sha1",
+			"storetemp",
+			"users_blog",
+			"fields",
+			"SELECT",
+			"JOIN",
+			"<script src=\"<?php echo base_url().'bootstrap/bootstrap.min.js'; ?>\"></script>",
+			"<link rel=\"stylesheet\" href=\"<?php echo base_url().'bootstrap/bootstrap.min.css'; ?>\">",
+			"uid",
+			"application/third_party/",
+			"application/third_party",
+			"<script src=\"<?php echo base_url('application/views/bootstrap.min.js') ?>\"></script>",
+			"<link rel=\"stylesheet\" href=\"<?php echo base_url('application/views/bootstrap.min.css') ?>\">",
+			"",
+			"peopid",
+			"people",
+			" ",
+			"",
+			"  ",
+			" ",
+			"people",
+			"profileview/profilefetchview",
+			"getStatusData",
+			"showstatus",
+			"$s_",
+			"/'.$current_year.'",
+			"/'.$current_year.'/",
+			"site_url('dbdisplay/buildTable/$current_year/')",
+			"site_url('dbdisplay/buildTable').$current_year",
+			"final_data",
+			"WHERE s.alumid = a.alumid AND s.touserid",
+			"status s, alumni a",
+			"status s, alumni",
+			"dbdispmodel",
+			"CS",
+			"1975",
+			"1990",
+			"1975",
+			"1965",
+			"active",
+			"c_year3",
+			"c_year2",
+			"c_year1",
+			"$year1",
+			"$yearFilter\")",
+			"$yearFilter)",
+			"",
+			"password",
+			"username",
+			"0",
+			"fn",
+			"homepage",
+			"Meena",
+			"Shweta",
+			"Shashank",
+			"''",
+			"name",
+			"7px",
+			"11px",
+			"15px",
+			"12px",
+			"9px",
+			"13px",
+			"8px",
+			"10px",
+			"std::cout",
+			"#029810",
+			"Plot",
+			"Depth",
+			"Ki",
+			"white",
+			"black",
+			"MainWidget",
+			"ControlPanel",
+			"Sensors",
+			"ControlPanel",
+			"buildSubscribeCallback",
+			"<span class=\"fa-stack fa-lg\">\n		<i class=\"fa fa-circle fa-stack-2x\" style=\"color: 3b5998\"></i>\n		<i class=\"fa fa-facebook fa-stack-1x\" style=\"color: ffffff\"></i>\n	</span>",
+			"<i class=\"fa fa-facebook fa-2x\"></i>",
+			"connect-buttons.php",
+			"sidebar",
+			"now",
+			"images/fb.png",
+			"300",
+			"php",
+			"menubar-images",
+			"\"page-sponsors/2014",
+			"\"page-sponsors/2012",
+			"2013",
+			"2012",
+			"events_images",
+			"gallery/images/",
+			" ",
+			"slider-images-tooltips"
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/controllers/courses_controller.rb",
+					"settings":
+					{
+						"buffer_size": 534,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								509,
+								509
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 432.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/controllers/departments_controller.rb",
+					"settings":
+					{
+						"buffer_size": 168,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/controllers/students_controller.rb",
+					"settings":
+					{
+						"buffer_size": 399,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								126,
+								126
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/views/students/new.html.erb",
+					"settings":
+					{
+						"buffer_size": 73,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								73,
+								73
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 118.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 166.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
