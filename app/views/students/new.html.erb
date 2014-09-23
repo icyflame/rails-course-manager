@@ -25,7 +25,15 @@
 
 <p>
 	<%= f.label :department %> <br/>
-	<%= f.text_field :dept, :placeholder => 'Integer Department ID' %> 
+
+	<select name="students[<%= :department_id %>]">
+		<% @departments.each do |department| %>
+		<option value="<%= department.id %>">
+			<%= department.name %>
+		</option>
+		<% end %>
+	</select>
+
 </p>
 
 <input type="submit" class="btn btn-md btn-success" value="Save student"/>

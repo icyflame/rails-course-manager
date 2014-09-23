@@ -1,14 +1,14 @@
-class studentsController < ApplicationController
+class StudentsController < ApplicationController
   def index
     @students = Student.all
   end
 
   def new
+    @departments = Department.all
   end
 
   def create
-    @newstudent = Student.new(student_params)
-
+    @newstudent = Student.new(students_params)
     if @newstudent.save
       # render plain: 'student created'
       redirect_to @newstudent
@@ -34,8 +34,8 @@ class studentsController < ApplicationController
 
   private
 
-  def student_params
-   params.require(:students).permit(:name, :dept)
+  def students_params
+   params.require(:students).permit(:name, :department_id)
  end
 
 end

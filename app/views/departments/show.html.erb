@@ -6,6 +6,33 @@
 	<%= @department.name %>
 </h2>
 
+<%= form_for :students, url: students_path do |f| %>
+
+<p>
+	<%= f.label :name_of_the_student %> <br/>
+	<%= f.text_field :name, :class => "form-control"  %> 
+</p>
+
+<p style="display: none; ">
+	<%= f.label :department %> <br/>
+	<%= f.text_field :department_id, :value => @department.id, :placeholder => 'Integer Department ID' %> 
+</p>
+
+<input type="submit" class="btn btn-md btn-success" value="Save student"/>
+
+<br/>
+<br/>
+
+<a href="<%= students_path %>">
+	<button class="btn btn-md btn-success">
+		Student List
+	</button>
+</a>
+
+<% end %>
+
+<br/>
+
 <a href="<%= departments_path %>">
 
 	<button class="btn btn-primary">

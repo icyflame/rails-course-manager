@@ -1,2 +1,49 @@
-<h1>Students#index</h1>
-<p>Find me in app/views/students/index.html.erb</p>
+<h1>List of all students</h1>
+
+<table class="table">
+
+	<tr>
+
+		<th>ID</th>
+		<th>Name</th>
+		<th>Department ID</th>
+		<th></th>
+		<th></th>
+
+	</tr>
+
+	<% @students.each do |student| %>
+
+	<tr>
+
+		<td> <%= student.id %> </td>
+		<td> <%= student.name %> </td>
+		<td> <%= student.department_id %> </td>
+		<td> 
+			<a href="<%= student_path(student) %>">
+				<button class="btn btn-success">
+					Show
+				</button>
+			</a>
+
+		</td>
+		<td>
+			<%= form_for :student, url: student, method: :delete do |f| %>
+			<input class="btn btn-danger" type="submit" value="delete"/>
+			<% end %>
+		</td>
+
+	</tr>
+
+	<% end %>
+
+</table>
+
+<a href="<%= new_student_path %>">
+	<button class="btn btn-primary">
+		New student
+	</button>
+</a>
+
+<br/>
+<br/>

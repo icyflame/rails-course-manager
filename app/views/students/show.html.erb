@@ -1,2 +1,19 @@
-<h1>Students#show</h1>
-<p>Find me in app/views/students/show.html.erb</p>
+<h3>
+	Department ID <%= @student.id %>
+</h3>
+
+<h2>
+	<%= @student.name %>
+</h2>
+
+<h2>
+	Department of <%= @student.inspect %>
+</h2>
+
+<a href="<%= students_path %>">
+
+	<button class="btn btn-primary">
+		Go back to list of departments
+	</button>
+
+</a>
